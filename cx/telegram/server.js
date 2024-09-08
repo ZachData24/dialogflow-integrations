@@ -17,7 +17,7 @@ const express = require('express');
 const axios = require('axios');
 const bodyParser = require('body-parser');
 
-const API_URL = `https://api.telegram.org/bot${TELEGRAM_TOKEN}`;
+const API_URL = `https://api.telegram.org/bot${7291469617:AAGBA4J8wKTJOMAYNK4fghOaoOPhYDRVV8s}`;
 const URI = `/webhook/${TELEGRAM_TOKEN}`;
 const WEBHOOK = SERVER_URL + URI;
 
